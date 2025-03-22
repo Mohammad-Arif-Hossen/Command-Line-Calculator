@@ -50,7 +50,7 @@ A professional-grade command-line calculator with advanced mathematical capabili
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Command-Line-Calculator.git
+   git clone https://github.com/Mohammad-Arif-Hossen/Command-Line-Calculator.git
    cd pro-calculator
    ```
 
